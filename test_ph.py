@@ -6,7 +6,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
-from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException, TimeoutException, ElementNotVisibleException
+from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException, TimeoutException, \
+    ElementNotVisibleException
 import time
 import random
 import string
@@ -20,6 +21,7 @@ from colorama import Fore
 users = []
 devicetype = 'Conductivity'
 testtype = 'Complete'
+
 
 def test_operator_login(adminuser, operatoruser, serielnumber):
     try:
@@ -68,7 +70,8 @@ def test_operator_login(adminuser, operatoruser, serielnumber):
             reset_button.click()
             time.sleep(3)
             print(adminuser, '-->', serielnumber, '-->', "Reset Done")
-            WebDriverWait(driver, 40).until_not(EC.presence_of_element_located((By.CSS_SELECTOR, '.balance-card-header-light-red')))
+            WebDriverWait(driver, 40).until_not(
+                EC.presence_of_element_located((By.CSS_SELECTOR, '.balance-card-header-light-red')))
             logout(driver)
         else:
             print(serielnumber, '-->', "Device checked-in --> Proceed with tests")
@@ -105,7 +108,7 @@ def test_operator_login(adminuser, operatoruser, serielnumber):
         driver.find_element('css selector', '.balance-primary-button').click()
         print(operatoruser, '-->', serielnumber, '-->', "Navigates to Step3")
         for i in range(1, 200):
-            print(Fore.WHITE + operatoruser, '-->', serielnumber, '-->', "Ph measure iteration Start "+str(i))
+            print(Fore.WHITE + operatoruser, '-->', serielnumber, '-->', "Ph measure iteration Start " + str(i))
             WebDriverWait(driver, 40).until(
                 EC.text_to_be_present_in_element((By.CSS_SELECTOR, 'span.renderedStatus.statusAlign'), 'Ready'))
             print(operatoruser, '-->', serielnumber, '-->', "Select PhMeasure and start")
@@ -116,7 +119,7 @@ def test_operator_login(adminuser, operatoruser, serielnumber):
             select = Select(dropdown_element)
             dropdown_element.click()
             if 'ph' in devicetype.lower():
-              select.select_by_visible_text("pH MEAS")
+                select.select_by_visible_text("pH MEAS")
             elif 'cond' in devicetype.lower():
                 select.select_by_visible_text("Cond Meas")
             # Generate a random string of length 8
@@ -148,43 +151,22 @@ def test_operator_login(adminuser, operatoruser, serielnumber):
             time.sleep(5)
             driver.find_element('xpath', "//*[contains(text(),'Confirm')]/ancestor::button").click()
             time.sleep(20)
-            print(operatoruser, '-->', serielnumber, '-->', "Ph measure iteration End "+str(i))
-            # Memory Check
-            # Get the process ID of the browser window
-            pid = driver.service.process.pid
-            # Get the memory usage of the window process
-            process = psutil.Process(pid)
-            memory_info = process.memory_info()
-            # Get the CPU usage percentage over the last 1 second
-            cpu_percent = process.cpu_percent(interval=10)
-            memory_usage = memory_info.rss / (1024 * 1024)
-
-            # get CPU utilization as a percentage
-            cpu_percent1 = psutil.cpu_percent()
-            # get CPU utilization per core
-            cpu_percent_per_core = psutil.cpu_percent(percpu=True)
-
+            print(operatoruser, '-->', serielnumber, '-->', "Ph measure iteration End " + str(i))
+            # CPU and Memory Utilization
+            cpu_percent = cpuutilization()
+            used_js_heap_size = memoryutilization(driver)
             # print the results
-            print(operatoruser, '-->', serielnumber, '-->', "Total CPU utilization: {}%".format(cpu_percent1))
-            print("CPU utilization per core: {}".format(cpu_percent_per_core))
-            # Print the memory usage in megabytes
-            print(operatoruser, ' Memory usage after '+str(i) + ' Measures: ', memory_usage, 'MB')
-            print(operatoruser, ' CPU usage after '+str(i) + ' Measures: ', cpu_percent)
-            # execute JavaScript to get the memory usage data
-            memory_data = driver.execute_script("return window.performance.memory")
-            # extract the value of the 'usedJSHeapSize' property
-            used_js_heap_size = memory_data['usedJSHeapSize']
-            # print the value of the 'usedJSHeapSize' property
-            print(operatoruser, ' After ', i, 'Measures-->', "Used JS Heap Size: {} bytes".format(used_js_heap_size))
-            print(operatoruser, ' After ', i, 'Measures-->', "Used JS Heap Size: {} MB".format(used_js_heap_size/ (1024 * 1024)))
-            print('Memory after '+str(i) + ' Measures: ', driver.execute_script("return window.performance.memory"))
+            print(operatoruser, '-->', serielnumber, '-->', "Total CPU utilization: {}%".format(cpu_percent))
+            print(operatoruser, ' After ', i, 'Measures-->',
+                  "Used JS Heap Size: {} MB".format(used_js_heap_size / (1024 * 1024)))
         WebDriverWait(driver, 40).until(
             EC.element_to_be_clickable((By.XPATH, "//*[contains(text(),'Release')]/ancestor::button")))
         driver.find_element('xpath', "//*[contains(text(),'Release')]/ancestor::button").click()
         time.sleep(10)
-        print("END")
+        print(operatoruser, '-->', serielnumber, '-->', "END")
         # driver.quit()
-    except (Exception, ElementClickInterceptedException, NoSuchElementException, TimeoutException, ElementNotVisibleException) as e:
+    except (Exception, ElementClickInterceptedException, NoSuchElementException, TimeoutException,
+            ElementNotVisibleException) as e:
         # Handle the exception
         print(Fore.RED + "Got an Error", e)
     finally:
