@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import random
 import string
+import datetime
 import os
 
 def login(username,driver):
@@ -90,4 +91,9 @@ def resetdevice(driver,serielnumber):
     time.sleep(3)
     WebDriverWait(driver, 40).until_not(
         EC.presence_of_element_located((By.CSS_SELECTOR, '.balance-card-header-light-red')))
+
+
+def getcurrent_time():
+    current_datetime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    return current_datetime
 

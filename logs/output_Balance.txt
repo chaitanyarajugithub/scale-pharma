@@ -1,0 +1,1403 @@
+Chaitanya-operator --> BA035001 --> checked-out
+chaitanya-admin --> BA035001 --> Reset Device
+chaitanya-admin --> BA035001 --> Search Device and select
+chaitanya-admin --> BA035001 --> Reset Done
+Chaitanya-operator --> Test Execution Start --> 2023-03-28 12:11:55
+2023-03-28 12:12:15 --> Chaitanya-operator --> BA035001 --> Operator Login Successful
+2023-03-28 12:12:16 --> Chaitanya-operator --> BA035001 --> Navigated to Measure
+2023-03-28 12:12:23 --> Chaitanya-operator --> BA035001 --> Search Device and select for check-out
+2023-03-28 12:12:30 --> Chaitanya-operator --> BA035001 --> Navigates to Step3
+2023-03-28 12:12:30 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 1
+2023-03-28 12:12:30 --> Balance API requests and Complete
+2023-03-28 12:12:33 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:13:48 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:14:14 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 1
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.1%
+Chaitanya-operator  After  1 Measures--> Used JS Heap Size: 35.66390895843506 MB
+2023-03-28 12:14:14 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 2
+2023-03-28 12:14:14 --> Balance API requests and Complete
+2023-03-28 12:14:14 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:15:29 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:15:54 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 2
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 5.0%
+Chaitanya-operator  After  2 Measures--> Used JS Heap Size: 41.6872444152832 MB
+2023-03-28 12:15:54 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 3
+2023-03-28 12:15:54 --> Balance API requests and Complete
+2023-03-28 12:15:54 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:17:09 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:17:35 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 3
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.6%
+Chaitanya-operator  After  3 Measures--> Used JS Heap Size: 41.3871431350708 MB
+2023-03-28 12:17:35 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 4
+2023-03-28 12:17:35 --> Balance API requests and Complete
+2023-03-28 12:17:35 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:18:49 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:19:15 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 4
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.0%
+Chaitanya-operator  After  4 Measures--> Used JS Heap Size: 46.5526123046875 MB
+2023-03-28 12:19:15 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 5
+2023-03-28 12:19:15 --> Balance API requests and Complete
+2023-03-28 12:19:15 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:20:30 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:20:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 5
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.1%
+Chaitanya-operator  After  5 Measures--> Used JS Heap Size: 34.14004993438721 MB
+2023-03-28 12:20:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 6
+2023-03-28 12:20:55 --> Balance API requests and Complete
+2023-03-28 12:20:55 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:22:10 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:22:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 6
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.1%
+Chaitanya-operator  After  6 Measures--> Used JS Heap Size: 33.92498779296875 MB
+2023-03-28 12:22:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 7
+2023-03-28 12:22:36 --> Balance API requests and Complete
+2023-03-28 12:22:36 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:23:51 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:24:16 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 7
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.9%
+Chaitanya-operator  After  7 Measures--> Used JS Heap Size: 34.16193866729736 MB
+2023-03-28 12:24:16 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 8
+2023-03-28 12:24:16 --> Balance API requests and Complete
+2023-03-28 12:24:16 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:25:31 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:25:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 8
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.0%
+Chaitanya-operator  After  8 Measures--> Used JS Heap Size: 34.817039489746094 MB
+2023-03-28 12:25:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 9
+2023-03-28 12:25:57 --> Balance API requests and Complete
+2023-03-28 12:25:57 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:27:12 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:27:37 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 9
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.6%
+Chaitanya-operator  After  9 Measures--> Used JS Heap Size: 35.23491382598877 MB
+2023-03-28 12:27:37 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 10
+2023-03-28 12:27:37 --> Balance API requests and Complete
+2023-03-28 12:27:37 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:28:53 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:29:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 10
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.9%
+Chaitanya-operator  After  10 Measures--> Used JS Heap Size: 39.161781311035156 MB
+2023-03-28 12:29:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 11
+2023-03-28 12:29:18 --> Balance API requests and Complete
+2023-03-28 12:29:18 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:30:33 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:30:58 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 11
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.9%
+Chaitanya-operator  After  11 Measures--> Used JS Heap Size: 39.72546195983887 MB
+2023-03-28 12:30:58 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 12
+2023-03-28 12:30:58 --> Balance API requests and Complete
+2023-03-28 12:30:58 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:32:14 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:32:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 12
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.0%
+Chaitanya-operator  After  12 Measures--> Used JS Heap Size: 40.815277099609375 MB
+2023-03-28 12:32:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 13
+2023-03-28 12:32:39 --> Balance API requests and Complete
+2023-03-28 12:32:39 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:33:54 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:34:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 13
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.5%
+Chaitanya-operator  After  13 Measures--> Used JS Heap Size: 40.386369705200195 MB
+2023-03-28 12:34:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 14
+2023-03-28 12:34:20 --> Balance API requests and Complete
+2023-03-28 12:34:20 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:35:35 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:36:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 14
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 5.5%
+Chaitanya-operator  After  14 Measures--> Used JS Heap Size: 40.462063789367676 MB
+2023-03-28 12:36:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 15
+2023-03-28 12:36:00 --> Balance API requests and Complete
+2023-03-28 12:36:00 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:37:16 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:37:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 15
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.8%
+Chaitanya-operator  After  15 Measures--> Used JS Heap Size: 41.482994079589844 MB
+2023-03-28 12:37:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 16
+2023-03-28 12:37:41 --> Balance API requests and Complete
+2023-03-28 12:37:41 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:38:56 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:39:22 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 16
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.3%
+Chaitanya-operator  After  16 Measures--> Used JS Heap Size: 45.81071662902832 MB
+2023-03-28 12:39:22 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 17
+2023-03-28 12:39:22 --> Balance API requests and Complete
+2023-03-28 12:39:22 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:40:37 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:41:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 17
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.2%
+Chaitanya-operator  After  17 Measures--> Used JS Heap Size: 45.91422748565674 MB
+2023-03-28 12:41:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 18
+2023-03-28 12:41:02 --> Balance API requests and Complete
+2023-03-28 12:41:02 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:42:17 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:42:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 18
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.4%
+Chaitanya-operator  After  18 Measures--> Used JS Heap Size: 46.52315807342529 MB
+2023-03-28 12:42:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 19
+2023-03-28 12:42:43 --> Balance API requests and Complete
+2023-03-28 12:42:43 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:43:58 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:44:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 19
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.2%
+Chaitanya-operator  After  19 Measures--> Used JS Heap Size: 46.77051544189453 MB
+2023-03-28 12:44:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 20
+2023-03-28 12:44:24 --> Balance API requests and Complete
+2023-03-28 12:44:24 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:45:39 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:46:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 20
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.1%
+Chaitanya-operator  After  20 Measures--> Used JS Heap Size: 47.749494552612305 MB
+2023-03-28 12:46:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 21
+2023-03-28 12:46:04 --> Balance API requests and Complete
+2023-03-28 12:46:04 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:47:20 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:47:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 21
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.7%
+Chaitanya-operator  After  21 Measures--> Used JS Heap Size: 48.05525779724121 MB
+2023-03-28 12:47:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 22
+2023-03-28 12:47:45 --> Balance API requests and Complete
+2023-03-28 12:47:45 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:49:00 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:49:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 22
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.3%
+Chaitanya-operator  After  22 Measures--> Used JS Heap Size: 45.67300987243652 MB
+2023-03-28 12:49:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 23
+2023-03-28 12:49:26 --> Balance API requests and Complete
+2023-03-28 12:49:26 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:50:41 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:51:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 23
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.3%
+Chaitanya-operator  After  23 Measures--> Used JS Heap Size: 47.212276458740234 MB
+2023-03-28 12:51:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 24
+2023-03-28 12:51:06 --> Balance API requests and Complete
+2023-03-28 12:51:06 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:52:22 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:52:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 24
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.5%
+Chaitanya-operator  After  24 Measures--> Used JS Heap Size: 49.158793449401855 MB
+2023-03-28 12:52:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 25
+2023-03-28 12:52:47 --> Balance API requests and Complete
+2023-03-28 12:52:47 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:54:02 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:54:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 25
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.3%
+Chaitanya-operator  After  25 Measures--> Used JS Heap Size: 51.219125747680664 MB
+2023-03-28 12:54:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 26
+2023-03-28 12:54:28 --> Balance API requests and Complete
+2023-03-28 12:54:28 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:55:43 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:56:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 26
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.7%
+Chaitanya-operator  After  26 Measures--> Used JS Heap Size: 52.42238712310791 MB
+2023-03-28 12:56:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 27
+2023-03-28 12:56:08 --> Balance API requests and Complete
+2023-03-28 12:56:08 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:57:23 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:57:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 27
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.3%
+Chaitanya-operator  After  27 Measures--> Used JS Heap Size: 50.48236274719238 MB
+2023-03-28 12:57:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 28
+2023-03-28 12:57:49 --> Balance API requests and Complete
+2023-03-28 12:57:49 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 12:59:04 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 12:59:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 28
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.3%
+Chaitanya-operator  After  28 Measures--> Used JS Heap Size: 52.366188049316406 MB
+2023-03-28 12:59:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 29
+2023-03-28 12:59:29 --> Balance API requests and Complete
+2023-03-28 12:59:29 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:00:44 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:01:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 29
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 11.0%
+Chaitanya-operator  After  29 Measures--> Used JS Heap Size: 58.21223163604736 MB
+2023-03-28 13:01:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 30
+2023-03-28 13:01:10 --> Balance API requests and Complete
+2023-03-28 13:01:10 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:02:25 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:02:50 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 30
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 10.7%
+Chaitanya-operator  After  30 Measures--> Used JS Heap Size: 59.73140048980713 MB
+2023-03-28 13:02:50 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 31
+2023-03-28 13:02:50 --> Balance API requests and Complete
+2023-03-28 13:02:51 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:04:06 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:04:31 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 31
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.7%
+Chaitanya-operator  After  31 Measures--> Used JS Heap Size: 58.33533954620361 MB
+2023-03-28 13:04:31 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 32
+2023-03-28 13:04:31 --> Balance API requests and Complete
+2023-03-28 13:04:31 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:05:46 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:06:12 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 32
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.8%
+Chaitanya-operator  After  32 Measures--> Used JS Heap Size: 59.92262077331543 MB
+2023-03-28 13:06:12 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 33
+2023-03-28 13:06:12 --> Balance API requests and Complete
+2023-03-28 13:06:12 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:07:27 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:07:52 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 33
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.6%
+Chaitanya-operator  After  33 Measures--> Used JS Heap Size: 61.70739459991455 MB
+2023-03-28 13:07:52 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 34
+2023-03-28 13:07:52 --> Balance API requests and Complete
+2023-03-28 13:07:52 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:09:07 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:09:32 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 34
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 7.7%
+Chaitanya-operator  After  34 Measures--> Used JS Heap Size: 63.25009059906006 MB
+2023-03-28 13:09:32 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 35
+2023-03-28 13:09:32 --> Balance API requests and Complete
+2023-03-28 13:09:32 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:10:47 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:11:13 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 35
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.1%
+Chaitanya-operator  After  35 Measures--> Used JS Heap Size: 60.46327018737793 MB
+2023-03-28 13:11:13 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 36
+2023-03-28 13:11:13 --> Balance API requests and Complete
+2023-03-28 13:11:13 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:12:28 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:12:53 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 36
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.8%
+Chaitanya-operator  After  36 Measures--> Used JS Heap Size: 61.272522926330566 MB
+2023-03-28 13:12:53 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 37
+2023-03-28 13:12:53 --> Balance API requests and Complete
+2023-03-28 13:12:53 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:14:09 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:14:34 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 37
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.7%
+Chaitanya-operator  After  37 Measures--> Used JS Heap Size: 63.928293228149414 MB
+2023-03-28 13:14:34 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 38
+2023-03-28 13:14:34 --> Balance API requests and Complete
+2023-03-28 13:14:34 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:15:49 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:16:14 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 38
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.9%
+Chaitanya-operator  After  38 Measures--> Used JS Heap Size: 67.77754592895508 MB
+2023-03-28 13:16:14 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 39
+2023-03-28 13:16:14 --> Balance API requests and Complete
+2023-03-28 13:16:14 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:17:29 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:17:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 39
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.7%
+Chaitanya-operator  After  39 Measures--> Used JS Heap Size: 66.64322566986084 MB
+2023-03-28 13:17:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 40
+2023-03-28 13:17:55 --> Balance API requests and Complete
+2023-03-28 13:17:55 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:19:10 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:19:35 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 40
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.3%
+Chaitanya-operator  After  40 Measures--> Used JS Heap Size: 67.21210765838623 MB
+2023-03-28 13:19:35 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 41
+2023-03-28 13:19:35 --> Balance API requests and Complete
+2023-03-28 13:19:35 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:20:50 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:21:16 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 41
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.3%
+Chaitanya-operator  After  41 Measures--> Used JS Heap Size: 68.70575618743896 MB
+2023-03-28 13:21:16 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 42
+2023-03-28 13:21:16 --> Balance API requests and Complete
+2023-03-28 13:21:16 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:22:30 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:22:56 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 42
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.7%
+Chaitanya-operator  After  42 Measures--> Used JS Heap Size: 67.9278039932251 MB
+2023-03-28 13:22:56 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 43
+2023-03-28 13:22:56 --> Balance API requests and Complete
+2023-03-28 13:22:56 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:24:11 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:24:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 43
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.0%
+Chaitanya-operator  After  43 Measures--> Used JS Heap Size: 68.54218006134033 MB
+2023-03-28 13:24:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 44
+2023-03-28 13:24:36 --> Balance API requests and Complete
+2023-03-28 13:24:36 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:25:51 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:26:17 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 44
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.6%
+Chaitanya-operator  After  44 Measures--> Used JS Heap Size: 69.85995674133301 MB
+2023-03-28 13:26:17 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 45
+2023-03-28 13:26:17 --> Balance API requests and Complete
+2023-03-28 13:26:17 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:27:32 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:27:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 45
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.1%
+Chaitanya-operator  After  45 Measures--> Used JS Heap Size: 74.93516635894775 MB
+2023-03-28 13:27:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 46
+2023-03-28 13:27:57 --> Balance API requests and Complete
+2023-03-28 13:27:57 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:29:12 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:29:38 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 46
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.6%
+Chaitanya-operator  After  46 Measures--> Used JS Heap Size: 75.44520092010498 MB
+2023-03-28 13:29:38 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 47
+2023-03-28 13:29:38 --> Balance API requests and Complete
+2023-03-28 13:29:38 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:30:53 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:31:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 47
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 5.9%
+Chaitanya-operator  After  47 Measures--> Used JS Heap Size: 74.36041831970215 MB
+2023-03-28 13:31:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 48
+2023-03-28 13:31:18 --> Balance API requests and Complete
+2023-03-28 13:31:18 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:32:33 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:32:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 48
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.8%
+Chaitanya-operator  After  48 Measures--> Used JS Heap Size: 75.63309383392334 MB
+2023-03-28 13:32:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 49
+2023-03-28 13:32:59 --> Balance API requests and Complete
+2023-03-28 13:32:59 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:34:14 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:34:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 49
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 7.8%
+Chaitanya-operator  After  49 Measures--> Used JS Heap Size: 76.59507274627686 MB
+2023-03-28 13:34:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 50
+2023-03-28 13:34:39 --> Balance API requests and Complete
+2023-03-28 13:34:39 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:35:54 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:36:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 50
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 7.0%
+Chaitanya-operator  After  50 Measures--> Used JS Heap Size: 78.17448139190674 MB
+2023-03-28 13:36:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 51
+2023-03-28 13:36:20 --> Balance API requests and Complete
+2023-03-28 13:36:20 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:37:35 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:38:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 51
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.7%
+Chaitanya-operator  After  51 Measures--> Used JS Heap Size: 76.50793361663818 MB
+2023-03-28 13:38:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 52
+2023-03-28 13:38:00 --> Balance API requests and Complete
+2023-03-28 13:38:00 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:39:15 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:39:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 52
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 5.2%
+Chaitanya-operator  After  52 Measures--> Used JS Heap Size: 77.07249736785889 MB
+2023-03-28 13:39:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 53
+2023-03-28 13:39:40 --> Balance API requests and Complete
+2023-03-28 13:39:41 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:40:56 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:41:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 53
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.5%
+Chaitanya-operator  After  53 Measures--> Used JS Heap Size: 81.6425428390503 MB
+2023-03-28 13:41:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 54
+2023-03-28 13:41:21 --> Balance API requests and Complete
+2023-03-28 13:41:21 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:42:36 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:43:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 54
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.8%
+Chaitanya-operator  After  54 Measures--> Used JS Heap Size: 83.13880634307861 MB
+2023-03-28 13:43:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 55
+2023-03-28 13:43:02 --> Balance API requests and Complete
+2023-03-28 13:43:02 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:44:17 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:44:42 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 55
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.0%
+Chaitanya-operator  After  55 Measures--> Used JS Heap Size: 80.26799011230469 MB
+2023-03-28 13:44:42 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 56
+2023-03-28 13:44:42 --> Balance API requests and Complete
+2023-03-28 13:44:42 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:45:57 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:46:23 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 56
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.7%
+Chaitanya-operator  After  56 Measures--> Used JS Heap Size: 85.97548961639404 MB
+2023-03-28 13:46:23 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 57
+2023-03-28 13:46:23 --> Balance API requests and Complete
+2023-03-28 13:46:23 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:47:38 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:48:03 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 57
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 7.9%
+Chaitanya-operator  After  57 Measures--> Used JS Heap Size: 85.17400932312012 MB
+2023-03-28 13:48:03 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 58
+2023-03-28 13:48:03 --> Balance API requests and Complete
+2023-03-28 13:48:03 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:49:18 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:49:44 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 58
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.0%
+Chaitanya-operator  After  58 Measures--> Used JS Heap Size: 85.54307842254639 MB
+2023-03-28 13:49:44 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 59
+2023-03-28 13:49:44 --> Balance API requests and Complete
+2023-03-28 13:49:44 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:50:59 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:51:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 59
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 10.9%
+Chaitanya-operator  After  59 Measures--> Used JS Heap Size: 84.07407188415527 MB
+2023-03-28 13:51:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 60
+2023-03-28 13:51:24 --> Balance API requests and Complete
+2023-03-28 13:51:24 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:52:40 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:53:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 60
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 11.6%
+Chaitanya-operator  After  60 Measures--> Used JS Heap Size: 88.55250835418701 MB
+2023-03-28 13:53:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 61
+2023-03-28 13:53:05 --> Balance API requests and Complete
+2023-03-28 13:53:05 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:54:20 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:54:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 61
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.0%
+Chaitanya-operator  After  61 Measures--> Used JS Heap Size: 88.53833770751953 MB
+2023-03-28 13:54:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 62
+2023-03-28 13:54:46 --> Balance API requests and Complete
+2023-03-28 13:54:46 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:56:01 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:56:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 62
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.2%
+Chaitanya-operator  After  62 Measures--> Used JS Heap Size: 89.26467037200928 MB
+2023-03-28 13:56:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 63
+2023-03-28 13:56:26 --> Balance API requests and Complete
+2023-03-28 13:56:26 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:57:41 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:58:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 63
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.7%
+Chaitanya-operator  After  63 Measures--> Used JS Heap Size: 90.85427379608154 MB
+2023-03-28 13:58:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 64
+2023-03-28 13:58:06 --> Balance API requests and Complete
+2023-03-28 13:58:06 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 13:59:21 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 13:59:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 64
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.0%
+Chaitanya-operator  After  64 Measures--> Used JS Heap Size: 89.95950889587402 MB
+2023-03-28 13:59:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 65
+2023-03-28 13:59:47 --> Balance API requests and Complete
+2023-03-28 13:59:47 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:01:02 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:01:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 65
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 10.7%
+Chaitanya-operator  After  65 Measures--> Used JS Heap Size: 94.55466747283936 MB
+2023-03-28 14:01:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 66
+2023-03-28 14:01:27 --> Balance API requests and Complete
+2023-03-28 14:01:27 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:02:42 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:03:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 66
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.9%
+Chaitanya-operator  After  66 Measures--> Used JS Heap Size: 91.72800254821777 MB
+2023-03-28 14:03:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 67
+2023-03-28 14:03:08 --> Balance API requests and Complete
+2023-03-28 14:03:08 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:04:23 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:04:48 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 67
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.5%
+Chaitanya-operator  After  67 Measures--> Used JS Heap Size: 95.35963344573975 MB
+2023-03-28 14:04:48 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 68
+2023-03-28 14:04:48 --> Balance API requests and Complete
+2023-03-28 14:04:48 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:06:03 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:06:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 68
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.2%
+Chaitanya-operator  After  68 Measures--> Used JS Heap Size: 94.13509464263916 MB
+2023-03-28 14:06:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 69
+2023-03-28 14:06:29 --> Balance API requests and Complete
+2023-03-28 14:07:00 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:08:15 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:08:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 69
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 19.3%
+Chaitanya-operator  After  69 Measures--> Used JS Heap Size: 95.0402603149414 MB
+2023-03-28 14:08:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 70
+2023-03-28 14:08:40 --> Balance API requests and Complete
+2023-03-28 14:08:40 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:09:55 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:10:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 70
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.2%
+Chaitanya-operator  After  70 Measures--> Used JS Heap Size: 98.26501560211182 MB
+2023-03-28 14:10:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 71
+2023-03-28 14:10:21 --> Balance API requests and Complete
+2023-03-28 14:10:21 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:11:35 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:12:01 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 71
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 13.6%
+Chaitanya-operator  After  71 Measures--> Used JS Heap Size: 97.98091793060303 MB
+2023-03-28 14:12:01 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 72
+2023-03-28 14:12:01 --> Balance API requests and Complete
+2023-03-28 14:12:01 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:13:15 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:13:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 72
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 18.0%
+Chaitanya-operator  After  72 Measures--> Used JS Heap Size: 98.05465984344482 MB
+2023-03-28 14:13:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 73
+2023-03-28 14:13:41 --> Balance API requests and Complete
+2023-03-28 14:13:41 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:14:56 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:15:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 73
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.6%
+Chaitanya-operator  After  73 Measures--> Used JS Heap Size: 101.46796321868896 MB
+2023-03-28 14:15:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 74
+2023-03-28 14:15:21 --> Balance API requests and Complete
+2023-03-28 14:15:21 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:16:36 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:17:01 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 74
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.0%
+Chaitanya-operator  After  74 Measures--> Used JS Heap Size: 99.65005779266357 MB
+2023-03-28 14:17:01 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 75
+2023-03-28 14:17:01 --> Balance API requests and Complete
+2023-03-28 14:17:01 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:18:16 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:18:42 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 75
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.1%
+Chaitanya-operator  After  75 Measures--> Used JS Heap Size: 103.77542972564697 MB
+2023-03-28 14:18:42 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 76
+2023-03-28 14:18:42 --> Balance API requests and Complete
+2023-03-28 14:18:42 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:19:57 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:20:22 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 76
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.7%
+Chaitanya-operator  After  76 Measures--> Used JS Heap Size: 108.62392330169678 MB
+2023-03-28 14:20:22 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 77
+2023-03-28 14:20:22 --> Balance API requests and Complete
+2023-03-28 14:20:22 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:21:37 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:22:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 77
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 17.2%
+Chaitanya-operator  After  77 Measures--> Used JS Heap Size: 103.8886890411377 MB
+2023-03-28 14:22:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 78
+2023-03-28 14:22:02 --> Balance API requests and Complete
+2023-03-28 14:22:02 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:23:17 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:23:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 78
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 18.9%
+Chaitanya-operator  After  78 Measures--> Used JS Heap Size: 106.60484027862549 MB
+2023-03-28 14:23:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 79
+2023-03-28 14:23:43 --> Balance API requests and Complete
+2023-03-28 14:23:43 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:24:57 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:25:23 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 79
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.0%
+Chaitanya-operator  After  79 Measures--> Used JS Heap Size: 106.24003887176514 MB
+2023-03-28 14:25:23 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 80
+2023-03-28 14:25:23 --> Balance API requests and Complete
+2023-03-28 14:25:23 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:26:38 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:27:03 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 80
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.9%
+Chaitanya-operator  After  80 Measures--> Used JS Heap Size: 106.03703594207764 MB
+2023-03-28 14:27:03 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 81
+2023-03-28 14:27:03 --> Balance API requests and Complete
+2023-03-28 14:27:03 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:28:18 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:28:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 81
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 17.9%
+Chaitanya-operator  After  81 Measures--> Used JS Heap Size: 108.59858226776123 MB
+2023-03-28 14:28:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 82
+2023-03-28 14:28:43 --> Balance API requests and Complete
+2023-03-28 14:28:43 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:29:58 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:30:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 82
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 18.5%
+Chaitanya-operator  After  82 Measures--> Used JS Heap Size: 111.87998580932617 MB
+2023-03-28 14:30:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 83
+2023-03-28 14:30:24 --> Balance API requests and Complete
+2023-03-28 14:30:24 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:31:39 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:32:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 83
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 19.7%
+Chaitanya-operator  After  83 Measures--> Used JS Heap Size: 110.49624633789062 MB
+2023-03-28 14:32:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 84
+2023-03-28 14:32:04 --> Balance API requests and Complete
+2023-03-28 14:32:04 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:33:19 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:33:44 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 84
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 18.0%
+Chaitanya-operator  After  84 Measures--> Used JS Heap Size: 111.65761756896973 MB
+2023-03-28 14:33:44 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 85
+2023-03-28 14:33:44 --> Balance API requests and Complete
+2023-03-28 14:33:44 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:34:59 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:35:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 85
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.0%
+Chaitanya-operator  After  85 Measures--> Used JS Heap Size: 112.68985939025879 MB
+2023-03-28 14:35:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 86
+2023-03-28 14:35:24 --> Balance API requests and Complete
+2023-03-28 14:35:24 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:36:39 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:37:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 86
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 22.3%
+Chaitanya-operator  After  86 Measures--> Used JS Heap Size: 115.64598846435547 MB
+2023-03-28 14:37:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 87
+2023-03-28 14:37:05 --> Balance API requests and Complete
+2023-03-28 14:37:05 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:38:20 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:38:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 87
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 20.3%
+Chaitanya-operator  After  87 Measures--> Used JS Heap Size: 118.021803855896 MB
+2023-03-28 14:38:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 88
+2023-03-28 14:38:45 --> Balance API requests and Complete
+2023-03-28 14:38:45 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:40:00 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:40:25 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 88
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 13.1%
+Chaitanya-operator  After  88 Measures--> Used JS Heap Size: 122.16176223754883 MB
+2023-03-28 14:40:25 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 89
+2023-03-28 14:40:25 --> Balance API requests and Complete
+2023-03-28 14:40:25 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:41:40 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:42:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 89
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.7%
+Chaitanya-operator  After  89 Measures--> Used JS Heap Size: 114.80344676971436 MB
+2023-03-28 14:42:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 90
+2023-03-28 14:42:06 --> Balance API requests and Complete
+2023-03-28 14:42:06 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:43:20 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:43:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 90
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.9%
+Chaitanya-operator  After  90 Measures--> Used JS Heap Size: 116.41174221038818 MB
+2023-03-28 14:43:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 91
+2023-03-28 14:43:46 --> Balance API requests and Complete
+2023-03-28 14:43:46 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:45:01 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:45:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 91
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.3%
+Chaitanya-operator  After  91 Measures--> Used JS Heap Size: 119.5930347442627 MB
+2023-03-28 14:45:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 92
+2023-03-28 14:45:26 --> Balance API requests and Complete
+2023-03-28 14:45:26 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:46:41 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:47:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 92
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 14.2%
+Chaitanya-operator  After  92 Measures--> Used JS Heap Size: 122.89093780517578 MB
+2023-03-28 14:47:07 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 93
+2023-03-28 14:47:07 --> Balance API requests and Complete
+2023-03-28 14:47:07 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:48:22 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:48:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 93
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.1%
+Chaitanya-operator  After  93 Measures--> Used JS Heap Size: 126.97024059295654 MB
+2023-03-28 14:48:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 94
+2023-03-28 14:48:47 --> Balance API requests and Complete
+2023-03-28 14:48:47 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:50:02 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:50:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 94
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.6%
+Chaitanya-operator  After  94 Measures--> Used JS Heap Size: 120.07070732116699 MB
+2023-03-28 14:50:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 95
+2023-03-28 14:50:27 --> Balance API requests and Complete
+2023-03-28 14:50:28 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:51:43 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:52:09 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 95
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 13.5%
+Chaitanya-operator  After  95 Measures--> Used JS Heap Size: 121.55861186981201 MB
+2023-03-28 14:52:09 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 96
+2023-03-28 14:52:09 --> Balance API requests and Complete
+2023-03-28 14:52:09 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:53:24 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:53:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 96
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 14.7%
+Chaitanya-operator  After  96 Measures--> Used JS Heap Size: 125.6105546951294 MB
+2023-03-28 14:53:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 97
+2023-03-28 14:53:49 --> Balance API requests and Complete
+2023-03-28 14:53:49 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:56:14 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:56:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 97
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.4%
+Chaitanya-operator  After  97 Measures--> Used JS Heap Size: 129.24450397491455 MB
+2023-03-28 14:56:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 98
+2023-03-28 14:56:40 --> Balance API requests and Complete
+2023-03-28 14:56:40 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:57:55 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 14:58:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 98
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 13.2%
+Chaitanya-operator  After  98 Measures--> Used JS Heap Size: 128.06318283081055 MB
+2023-03-28 14:58:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 99
+2023-03-28 14:58:20 --> Balance API requests and Complete
+2023-03-28 14:58:20 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 14:59:35 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:00:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 99
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.5%
+Chaitanya-operator  After  99 Measures--> Used JS Heap Size: 128.48490715026855 MB
+2023-03-28 15:00:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 100
+2023-03-28 15:00:00 --> Balance API requests and Complete
+2023-03-28 15:00:05 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:01:20 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:01:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 100
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.0%
+Chaitanya-operator  After  100 Measures--> Used JS Heap Size: 127.29136371612549 MB
+2023-03-28 15:01:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 101
+2023-03-28 15:01:45 --> Balance API requests and Complete
+2023-03-28 15:01:45 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:03:00 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:03:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 101
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.3%
+Chaitanya-operator  After  101 Measures--> Used JS Heap Size: 126.4480152130127 MB
+2023-03-28 15:03:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 102
+2023-03-28 15:03:26 --> Balance API requests and Complete
+2023-03-28 15:03:26 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:04:41 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:05:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 102
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 14.2%
+Chaitanya-operator  After  102 Measures--> Used JS Heap Size: 128.85676956176758 MB
+2023-03-28 15:05:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 103
+2023-03-28 15:05:06 --> Balance API requests and Complete
+2023-03-28 15:05:06 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:06:21 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:06:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 103
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 19.6%
+Chaitanya-operator  After  103 Measures--> Used JS Heap Size: 129.9322738647461 MB
+2023-03-28 15:06:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 104
+2023-03-28 15:06:46 --> Balance API requests and Complete
+2023-03-28 15:06:46 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:08:01 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:08:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 104
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.8%
+Chaitanya-operator  After  104 Measures--> Used JS Heap Size: 133.51629734039307 MB
+2023-03-28 15:08:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 105
+2023-03-28 15:08:27 --> Balance API requests and Complete
+2023-03-28 15:08:27 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:09:42 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:10:07 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 105
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 17.7%
+Chaitanya-operator  After  105 Measures--> Used JS Heap Size: 133.18774700164795 MB
+2023-03-28 15:10:07 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 106
+2023-03-28 15:10:07 --> Balance API requests and Complete
+2023-03-28 15:10:07 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:11:22 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:11:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 106
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 14.2%
+Chaitanya-operator  After  106 Measures--> Used JS Heap Size: 135.44566249847412 MB
+2023-03-28 15:11:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 107
+2023-03-28 15:11:47 --> Balance API requests and Complete
+2023-03-28 15:11:47 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:13:02 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:13:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 107
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.8%
+Chaitanya-operator  After  107 Measures--> Used JS Heap Size: 136.86973762512207 MB
+2023-03-28 15:13:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 108
+2023-03-28 15:13:28 --> Balance API requests and Complete
+2023-03-28 15:13:28 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:14:43 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:15:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 108
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 14.6%
+Chaitanya-operator  After  108 Measures--> Used JS Heap Size: 140.09107971191406 MB
+2023-03-28 15:15:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 109
+2023-03-28 15:15:08 --> Balance API requests and Complete
+2023-03-28 15:15:08 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:16:23 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:16:48 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 109
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.3%
+Chaitanya-operator  After  109 Measures--> Used JS Heap Size: 139.9333553314209 MB
+2023-03-28 15:16:48 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 110
+2023-03-28 15:16:48 --> Balance API requests and Complete
+2023-03-28 15:16:48 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:18:03 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:18:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 110
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.8%
+Chaitanya-operator  After  110 Measures--> Used JS Heap Size: 141.71875381469727 MB
+2023-03-28 15:18:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 111
+2023-03-28 15:18:28 --> Balance API requests and Complete
+2023-03-28 15:18:28 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:19:43 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:20:09 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 111
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.0%
+Chaitanya-operator  After  111 Measures--> Used JS Heap Size: 143.1524772644043 MB
+2023-03-28 15:20:09 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 112
+2023-03-28 15:20:09 --> Balance API requests and Complete
+2023-03-28 15:20:09 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:21:24 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:21:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 112
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.2%
+Chaitanya-operator  After  112 Measures--> Used JS Heap Size: 145.76126384735107 MB
+2023-03-28 15:21:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 113
+2023-03-28 15:21:49 --> Balance API requests and Complete
+2023-03-28 15:21:49 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:23:04 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:23:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 113
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 11.6%
+Chaitanya-operator  After  113 Measures--> Used JS Heap Size: 148.371356010437 MB
+2023-03-28 15:23:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 114
+2023-03-28 15:23:29 --> Balance API requests and Complete
+2023-03-28 15:23:29 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:24:44 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:25:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 114
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 17.2%
+Chaitanya-operator  After  114 Measures--> Used JS Heap Size: 146.12227725982666 MB
+2023-03-28 15:25:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 115
+2023-03-28 15:25:10 --> Balance API requests and Complete
+2023-03-28 15:25:10 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:26:24 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:26:50 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 115
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 21.8%
+Chaitanya-operator  After  115 Measures--> Used JS Heap Size: 146.8713607788086 MB
+2023-03-28 15:26:50 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 116
+2023-03-28 15:26:50 --> Balance API requests and Complete
+2023-03-28 15:26:50 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:28:05 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:28:30 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 116
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 21.7%
+Chaitanya-operator  After  116 Measures--> Used JS Heap Size: 147.73254489898682 MB
+2023-03-28 15:28:30 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 117
+2023-03-28 15:28:30 --> Balance API requests and Complete
+2023-03-28 15:28:30 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:29:45 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:30:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 117
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 16.2%
+Chaitanya-operator  After  117 Measures--> Used JS Heap Size: 150.45333671569824 MB
+2023-03-28 15:30:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 118
+2023-03-28 15:30:10 --> Balance API requests and Complete
+2023-03-28 15:30:10 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:31:25 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:31:51 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 118
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 13.5%
+Chaitanya-operator  After  118 Measures--> Used JS Heap Size: 152.87911987304688 MB
+2023-03-28 15:31:51 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 119
+2023-03-28 15:31:51 --> Balance API requests and Complete
+2023-03-28 15:31:51 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:33:06 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:33:31 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 119
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.6%
+Chaitanya-operator  After  119 Measures--> Used JS Heap Size: 150.20899200439453 MB
+2023-03-28 15:33:31 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 120
+2023-03-28 15:33:31 --> Balance API requests and Complete
+2023-03-28 15:33:31 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:34:46 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:35:11 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 120
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 7.6%
+Chaitanya-operator  After  120 Measures--> Used JS Heap Size: 150.7873830795288 MB
+2023-03-28 15:35:11 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 121
+2023-03-28 15:35:11 --> Balance API requests and Complete
+2023-03-28 15:35:11 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:36:26 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:36:51 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 121
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 10.7%
+Chaitanya-operator  After  121 Measures--> Used JS Heap Size: 151.74440574645996 MB
+2023-03-28 15:36:51 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 122
+2023-03-28 15:36:51 --> Balance API requests and Complete
+2023-03-28 15:36:51 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:38:06 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:38:32 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 122
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.5%
+Chaitanya-operator  After  122 Measures--> Used JS Heap Size: 153.5951633453369 MB
+2023-03-28 15:38:32 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 123
+2023-03-28 15:38:32 --> Balance API requests and Complete
+2023-03-28 15:38:32 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:39:46 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:40:12 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 123
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.5%
+Chaitanya-operator  After  123 Measures--> Used JS Heap Size: 155.5221176147461 MB
+2023-03-28 15:40:12 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 124
+2023-03-28 15:40:12 --> Balance API requests and Complete
+2023-03-28 15:40:12 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:41:27 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:41:52 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 124
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 14.4%
+Chaitanya-operator  After  124 Measures--> Used JS Heap Size: 150.8733425140381 MB
+2023-03-28 15:41:52 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 125
+2023-03-28 15:41:52 --> Balance API requests and Complete
+2023-03-28 15:41:52 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:43:07 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:43:33 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 125
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.5%
+Chaitanya-operator  After  125 Measures--> Used JS Heap Size: 151.78802013397217 MB
+2023-03-28 15:43:33 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 126
+2023-03-28 15:43:33 --> Balance API requests and Complete
+2023-03-28 15:43:33 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:44:48 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:45:13 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 126
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.3%
+Chaitanya-operator  After  126 Measures--> Used JS Heap Size: 162.74339771270752 MB
+2023-03-28 15:45:13 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 127
+2023-03-28 15:45:13 --> Balance API requests and Complete
+2023-03-28 15:45:13 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:46:28 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:46:54 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 127
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.0%
+Chaitanya-operator  After  127 Measures--> Used JS Heap Size: 162.18587493896484 MB
+2023-03-28 15:46:54 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 128
+2023-03-28 15:46:54 --> Balance API requests and Complete
+2023-03-28 15:46:54 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:48:09 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:48:34 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 128
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.4%
+Chaitanya-operator  After  128 Measures--> Used JS Heap Size: 163.26965808868408 MB
+2023-03-28 15:48:34 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 129
+2023-03-28 15:48:34 --> Balance API requests and Complete
+2023-03-28 15:48:34 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:49:49 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:50:15 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 129
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.6%
+Chaitanya-operator  After  129 Measures--> Used JS Heap Size: 164.9150266647339 MB
+2023-03-28 15:50:15 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 130
+2023-03-28 15:50:15 --> Balance API requests and Complete
+2023-03-28 15:50:15 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:51:30 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:51:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 130
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 5.7%
+Chaitanya-operator  After  130 Measures--> Used JS Heap Size: 162.80715465545654 MB
+2023-03-28 15:51:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 131
+2023-03-28 15:51:55 --> Balance API requests and Complete
+2023-03-28 15:51:55 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:53:10 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:53:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 131
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.9%
+Chaitanya-operator  After  131 Measures--> Used JS Heap Size: 163.61542224884033 MB
+2023-03-28 15:53:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 132
+2023-03-28 15:53:36 --> Balance API requests and Complete
+2023-03-28 15:53:36 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:54:51 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:55:16 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 132
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.1%
+Chaitanya-operator  After  132 Measures--> Used JS Heap Size: 162.90544319152832 MB
+2023-03-28 15:55:16 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 133
+2023-03-28 15:55:16 --> Balance API requests and Complete
+2023-03-28 15:55:16 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:56:31 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:56:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 133
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.8%
+Chaitanya-operator  After  133 Measures--> Used JS Heap Size: 162.63636302947998 MB
+2023-03-28 15:56:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 134
+2023-03-28 15:56:57 --> Balance API requests and Complete
+2023-03-28 15:56:57 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:58:11 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 15:58:37 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 134
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 21.4%
+Chaitanya-operator  After  134 Measures--> Used JS Heap Size: 163.9794054031372 MB
+2023-03-28 15:58:37 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 135
+2023-03-28 15:58:37 --> Balance API requests and Complete
+2023-03-28 15:58:37 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 15:59:52 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:00:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 135
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 20.8%
+Chaitanya-operator  After  135 Measures--> Used JS Heap Size: 175.1343994140625 MB
+2023-03-28 16:00:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 136
+2023-03-28 16:00:18 --> Balance API requests and Complete
+2023-03-28 16:00:18 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:01:33 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:01:58 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 136
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 20.2%
+Chaitanya-operator  After  136 Measures--> Used JS Heap Size: 169.61925411224365 MB
+2023-03-28 16:01:58 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 137
+2023-03-28 16:01:58 --> Balance API requests and Complete
+2023-03-28 16:01:58 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:03:13 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:03:38 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 137
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 21.0%
+Chaitanya-operator  After  137 Measures--> Used JS Heap Size: 168.80457401275635 MB
+2023-03-28 16:03:38 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 138
+2023-03-28 16:03:38 --> Balance API requests and Complete
+2023-03-28 16:03:38 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:04:53 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:05:19 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 138
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 22.5%
+Chaitanya-operator  After  138 Measures--> Used JS Heap Size: 168.3813877105713 MB
+2023-03-28 16:05:19 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 139
+2023-03-28 16:05:19 --> Balance API requests and Complete
+2023-03-28 16:05:19 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:06:34 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:06:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 139
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 34.0%
+Chaitanya-operator  After  139 Measures--> Used JS Heap Size: 169.92347240447998 MB
+2023-03-28 16:06:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 140
+2023-03-28 16:06:59 --> Balance API requests and Complete
+2023-03-28 16:06:59 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:08:14 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:08:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 140
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 32.8%
+Chaitanya-operator  After  140 Measures--> Used JS Heap Size: 167.0408058166504 MB
+2023-03-28 16:08:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 141
+2023-03-28 16:08:39 --> Balance API requests and Complete
+2023-03-28 16:08:39 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:09:54 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:10:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 141
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 31.7%
+Chaitanya-operator  After  141 Measures--> Used JS Heap Size: 178.49909019470215 MB
+2023-03-28 16:10:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 142
+2023-03-28 16:10:20 --> Balance API requests and Complete
+2023-03-28 16:10:20 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:11:35 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:12:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 142
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.4%
+Chaitanya-operator  After  142 Measures--> Used JS Heap Size: 176.8162441253662 MB
+2023-03-28 16:12:00 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 143
+2023-03-28 16:12:00 --> Balance API requests and Complete
+2023-03-28 16:12:00 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:13:15 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:13:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 143
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.4%
+Chaitanya-operator  After  143 Measures--> Used JS Heap Size: 175.64631462097168 MB
+2023-03-28 16:13:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 144
+2023-03-28 16:13:41 --> Balance API requests and Complete
+2023-03-28 16:13:41 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:14:56 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:15:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 144
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.1%
+Chaitanya-operator  After  144 Measures--> Used JS Heap Size: 176.2288417816162 MB
+2023-03-28 16:15:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 145
+2023-03-28 16:15:21 --> Balance API requests and Complete
+2023-03-28 16:15:21 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:16:36 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:17:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 145
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.7%
+Chaitanya-operator  After  145 Measures--> Used JS Heap Size: 176.69255828857422 MB
+2023-03-28 16:17:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 146
+2023-03-28 16:17:02 --> Balance API requests and Complete
+2023-03-28 16:17:02 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:18:17 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:18:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 146
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.5%
+Chaitanya-operator  After  146 Measures--> Used JS Heap Size: 173.16547775268555 MB
+2023-03-28 16:18:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 147
+2023-03-28 16:18:43 --> Balance API requests and Complete
+2023-03-28 16:18:43 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:19:58 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:20:23 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 147
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.7%
+Chaitanya-operator  After  147 Measures--> Used JS Heap Size: 184.2014617919922 MB
+2023-03-28 16:20:23 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 148
+2023-03-28 16:20:23 --> Balance API requests and Complete
+2023-03-28 16:20:23 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:21:38 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:22:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 148
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.6%
+Chaitanya-operator  After  148 Measures--> Used JS Heap Size: 182.1986207962036 MB
+2023-03-28 16:22:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 149
+2023-03-28 16:22:04 --> Balance API requests and Complete
+2023-03-28 16:22:04 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:23:19 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:23:44 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 149
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.7%
+Chaitanya-operator  After  149 Measures--> Used JS Heap Size: 180.32901859283447 MB
+2023-03-28 16:23:44 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 150
+2023-03-28 16:23:44 --> Balance API requests and Complete
+2023-03-28 16:23:44 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:24:59 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:25:25 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 150
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.4%
+Chaitanya-operator  After  150 Measures--> Used JS Heap Size: 180.9425687789917 MB
+2023-03-28 16:25:25 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 151
+2023-03-28 16:25:25 --> Balance API requests and Complete
+2023-03-28 16:25:25 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:26:39 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:27:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 151
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.6%
+Chaitanya-operator  After  151 Measures--> Used JS Heap Size: 181.64475440979004 MB
+2023-03-28 16:27:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 152
+2023-03-28 16:27:05 --> Balance API requests and Complete
+2023-03-28 16:27:05 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:28:20 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:28:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 152
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.7%
+Chaitanya-operator  After  152 Measures--> Used JS Heap Size: 192.3630723953247 MB
+2023-03-28 16:28:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 153
+2023-03-28 16:28:45 --> Balance API requests and Complete
+2023-03-28 16:28:45 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:30:00 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:30:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 153
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.8%
+Chaitanya-operator  After  153 Measures--> Used JS Heap Size: 188.29754543304443 MB
+2023-03-28 16:30:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 154
+2023-03-28 16:30:26 --> Balance API requests and Complete
+2023-03-28 16:30:26 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:31:41 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:32:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 154
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.4%
+Chaitanya-operator  After  154 Measures--> Used JS Heap Size: 185.95676517486572 MB
+2023-03-28 16:32:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 155
+2023-03-28 16:32:06 --> Balance API requests and Complete
+2023-03-28 16:32:06 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:33:21 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:33:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 155
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.0%
+Chaitanya-operator  After  155 Measures--> Used JS Heap Size: 184.22462940216064 MB
+2023-03-28 16:33:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 156
+2023-03-28 16:33:47 --> Balance API requests and Complete
+2023-03-28 16:33:47 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:35:02 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:35:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 156
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.3%
+Chaitanya-operator  After  156 Measures--> Used JS Heap Size: 195.31805324554443 MB
+2023-03-28 16:35:27 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 157
+2023-03-28 16:35:27 --> Balance API requests and Complete
+2023-03-28 16:35:27 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:36:43 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:37:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 157
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.7%
+Chaitanya-operator  After  157 Measures--> Used JS Heap Size: 192.17063808441162 MB
+2023-03-28 16:37:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 158
+2023-03-28 16:37:08 --> Balance API requests and Complete
+2023-03-28 16:37:08 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:38:23 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:38:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 158
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.9%
+Chaitanya-operator  After  158 Measures--> Used JS Heap Size: 191.56073760986328 MB
+2023-03-28 16:38:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 159
+2023-03-28 16:38:49 --> Balance API requests and Complete
+2023-03-28 16:38:49 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:40:04 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:40:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 159
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 14.7%
+Chaitanya-operator  After  159 Measures--> Used JS Heap Size: 186.31416511535645 MB
+2023-03-28 16:40:29 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 160
+2023-03-28 16:40:29 --> Balance API requests and Complete
+2023-03-28 16:40:29 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:41:44 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:42:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 160
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.8%
+Chaitanya-operator  After  160 Measures--> Used JS Heap Size: 197.47007369995117 MB
+2023-03-28 16:42:10 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 161
+2023-03-28 16:42:10 --> Balance API requests and Complete
+2023-03-28 16:42:10 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:43:25 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:43:50 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 161
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.0%
+Chaitanya-operator  After  161 Measures--> Used JS Heap Size: 194.5776882171631 MB
+2023-03-28 16:43:50 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 162
+2023-03-28 16:43:50 --> Balance API requests and Complete
+2023-03-28 16:43:50 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:45:05 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:45:31 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 162
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.3%
+Chaitanya-operator  After  162 Measures--> Used JS Heap Size: 192.21148681640625 MB
+2023-03-28 16:45:31 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 163
+2023-03-28 16:45:31 --> Balance API requests and Complete
+2023-03-28 16:45:31 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:46:46 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:47:11 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 163
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.2%
+Chaitanya-operator  After  163 Measures--> Used JS Heap Size: 192.38901901245117 MB
+2023-03-28 16:47:11 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 164
+2023-03-28 16:47:11 --> Balance API requests and Complete
+2023-03-28 16:47:11 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:48:27 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:48:52 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 164
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.8%
+Chaitanya-operator  After  164 Measures--> Used JS Heap Size: 202.6625280380249 MB
+2023-03-28 16:48:52 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 165
+2023-03-28 16:48:52 --> Balance API requests and Complete
+2023-03-28 16:48:52 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:50:08 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:50:34 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 165
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.0%
+Chaitanya-operator  After  165 Measures--> Used JS Heap Size: 196.949933052063 MB
+2023-03-28 16:50:34 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 166
+2023-03-28 16:50:34 --> Balance API requests and Complete
+2023-03-28 16:50:34 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:51:49 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:52:14 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 166
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.8%
+Chaitanya-operator  After  166 Measures--> Used JS Heap Size: 194.78037643432617 MB
+2023-03-28 16:52:14 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 167
+2023-03-28 16:52:14 --> Balance API requests and Complete
+2023-03-28 16:52:14 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:53:30 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:53:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 167
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.1%
+Chaitanya-operator  After  167 Measures--> Used JS Heap Size: 205.46982669830322 MB
+2023-03-28 16:53:55 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 168
+2023-03-28 16:53:55 --> Balance API requests and Complete
+2023-03-28 16:53:55 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:55:11 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:55:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 168
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.4%
+Chaitanya-operator  After  168 Measures--> Used JS Heap Size: 202.32976055145264 MB
+2023-03-28 16:55:36 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 169
+2023-03-28 16:55:36 --> Balance API requests and Complete
+2023-03-28 16:55:36 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:56:51 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:57:17 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 169
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.3%
+Chaitanya-operator  After  169 Measures--> Used JS Heap Size: 202.07673358917236 MB
+2023-03-28 16:57:17 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 170
+2023-03-28 16:57:17 --> Balance API requests and Complete
+2023-03-28 16:57:17 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 16:58:32 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 16:58:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 170
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.9%
+Chaitanya-operator  After  170 Measures--> Used JS Heap Size: 212.6055088043213 MB
+2023-03-28 16:58:57 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 171
+2023-03-28 16:58:57 --> Balance API requests and Complete
+2023-03-28 16:58:57 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:00:12 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:00:38 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 171
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.9%
+Chaitanya-operator  After  171 Measures--> Used JS Heap Size: 207.3670425415039 MB
+2023-03-28 17:00:38 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 172
+2023-03-28 17:00:38 --> Balance API requests and Complete
+2023-03-28 17:00:38 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:01:53 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:02:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 172
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.2%
+Chaitanya-operator  After  172 Measures--> Used JS Heap Size: 204.15186977386475 MB
+2023-03-28 17:02:18 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 173
+2023-03-28 17:02:18 --> Balance API requests and Complete
+2023-03-28 17:02:18 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:03:33 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:03:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 173
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.5%
+Chaitanya-operator  After  173 Measures--> Used JS Heap Size: 201.34932136535645 MB
+2023-03-28 17:03:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 174
+2023-03-28 17:03:59 --> Balance API requests and Complete
+2023-03-28 17:03:59 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:05:14 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:05:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 174
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.7%
+Chaitanya-operator  After  174 Measures--> Used JS Heap Size: 212.01071166992188 MB
+2023-03-28 17:05:39 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 175
+2023-03-28 17:05:39 --> Balance API requests and Complete
+2023-03-28 17:05:39 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:06:54 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:07:19 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 175
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 3.0%
+Chaitanya-operator  After  175 Measures--> Used JS Heap Size: 209.99913597106934 MB
+2023-03-28 17:07:19 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 176
+2023-03-28 17:07:19 --> Balance API requests and Complete
+2023-03-28 17:07:19 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:08:34 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:08:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 176
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 6.3%
+Chaitanya-operator  After  176 Measures--> Used JS Heap Size: 203.61110305786133 MB
+2023-03-28 17:08:59 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 177
+2023-03-28 17:08:59 --> Balance API requests and Complete
+2023-03-28 17:08:59 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:10:14 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:10:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 177
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 10.6%
+Chaitanya-operator  After  177 Measures--> Used JS Heap Size: 215.1039638519287 MB
+2023-03-28 17:10:40 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 178
+2023-03-28 17:10:40 --> Balance API requests and Complete
+2023-03-28 17:10:40 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:11:55 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:12:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 178
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.9%
+Chaitanya-operator  After  178 Measures--> Used JS Heap Size: 211.00961589813232 MB
+2023-03-28 17:12:20 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 179
+2023-03-28 17:12:20 --> Balance API requests and Complete
+2023-03-28 17:12:20 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:13:35 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:14:01 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 179
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.8%
+Chaitanya-operator  After  179 Measures--> Used JS Heap Size: 207.81861209869385 MB
+2023-03-28 17:14:01 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 180
+2023-03-28 17:14:01 --> Balance API requests and Complete
+2023-03-28 17:14:01 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:15:16 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:15:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 180
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.0%
+Chaitanya-operator  After  180 Measures--> Used JS Heap Size: 218.90002822875977 MB
+2023-03-28 17:15:41 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 181
+2023-03-28 17:15:41 --> Balance API requests and Complete
+2023-03-28 17:15:41 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:16:56 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:17:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 181
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.1%
+Chaitanya-operator  After  181 Measures--> Used JS Heap Size: 216.21711826324463 MB
+2023-03-28 17:17:21 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 182
+2023-03-28 17:17:21 --> Balance API requests and Complete
+2023-03-28 17:17:21 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:18:36 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:19:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 182
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.8%
+Chaitanya-operator  After  182 Measures--> Used JS Heap Size: 214.40130424499512 MB
+2023-03-28 17:19:02 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 183
+2023-03-28 17:19:02 --> Balance API requests and Complete
+2023-03-28 17:19:02 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:20:17 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:20:42 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 183
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 15.4%
+Chaitanya-operator  After  183 Measures--> Used JS Heap Size: 219.7985439300537 MB
+2023-03-28 17:20:42 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 184
+2023-03-28 17:20:42 --> Balance API requests and Complete
+2023-03-28 17:20:42 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:21:57 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:22:22 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 184
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 9.5%
+Chaitanya-operator  After  184 Measures--> Used JS Heap Size: 215.77195930480957 MB
+2023-03-28 17:22:22 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 185
+2023-03-28 17:22:22 --> Balance API requests and Complete
+2023-03-28 17:22:22 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:23:37 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:24:03 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 185
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 10.9%
+Chaitanya-operator  After  185 Measures--> Used JS Heap Size: 213.20851135253906 MB
+2023-03-28 17:24:03 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 186
+2023-03-28 17:24:03 --> Balance API requests and Complete
+2023-03-28 17:24:03 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:25:18 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:25:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 186
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 11.2%
+Chaitanya-operator  After  186 Measures--> Used JS Heap Size: 223.8407564163208 MB
+2023-03-28 17:25:43 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 187
+2023-03-28 17:25:43 --> Balance API requests and Complete
+2023-03-28 17:25:43 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:26:58 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:27:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 187
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 13.0%
+Chaitanya-operator  After  187 Measures--> Used JS Heap Size: 220.7387456893921 MB
+2023-03-28 17:27:24 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 188
+2023-03-28 17:27:24 --> Balance API requests and Complete
+2023-03-28 17:27:24 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:28:39 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:29:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 188
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 11.7%
+Chaitanya-operator  After  188 Measures--> Used JS Heap Size: 231.41397762298584 MB
+2023-03-28 17:29:04 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 189
+2023-03-28 17:29:04 --> Balance API requests and Complete
+2023-03-28 17:29:04 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:30:19 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:30:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 189
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 10.8%
+Chaitanya-operator  After  189 Measures--> Used JS Heap Size: 229.64122676849365 MB
+2023-03-28 17:30:45 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 190
+2023-03-28 17:30:45 --> Balance API requests and Complete
+2023-03-28 17:30:45 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:32:00 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:32:25 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 190
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 17.8%
+Chaitanya-operator  After  190 Measures--> Used JS Heap Size: 221.65684986114502 MB
+2023-03-28 17:32:25 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 191
+2023-03-28 17:32:25 --> Balance API requests and Complete
+2023-03-28 17:32:25 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:33:40 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:34:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 191
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 18.1%
+Chaitanya-operator  After  191 Measures--> Used JS Heap Size: 232.5805196762085 MB
+2023-03-28 17:34:05 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 192
+2023-03-28 17:34:05 --> Balance API requests and Complete
+2023-03-28 17:34:05 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:35:20 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:35:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 192
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 17.4%
+Chaitanya-operator  After  192 Measures--> Used JS Heap Size: 226.58574390411377 MB
+2023-03-28 17:35:46 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 193
+2023-03-28 17:35:46 --> Balance API requests and Complete
+2023-03-28 17:35:46 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:37:01 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:37:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 193
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.9%
+Chaitanya-operator  After  193 Measures--> Used JS Heap Size: 222.9735870361328 MB
+2023-03-28 17:37:26 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 194
+2023-03-28 17:37:26 --> Balance API requests and Complete
+2023-03-28 17:37:26 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:38:41 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:39:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 194
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 12.6%
+Chaitanya-operator  After  194 Measures--> Used JS Heap Size: 233.56051921844482 MB
+2023-03-28 17:39:06 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 195
+2023-03-28 17:39:06 --> Balance API requests and Complete
+2023-03-28 17:39:06 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:40:22 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:40:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 195
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 8.1%
+Chaitanya-operator  After  195 Measures--> Used JS Heap Size: 230.7776689529419 MB
+2023-03-28 17:40:47 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 196
+2023-03-28 17:40:47 --> Balance API requests and Complete
+2023-03-28 17:40:47 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:42:02 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:42:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 196
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 7.1%
+Chaitanya-operator  After  196 Measures--> Used JS Heap Size: 223.78170585632324 MB
+2023-03-28 17:42:28 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 197
+2023-03-28 17:42:28 --> Balance API requests and Complete
+2023-03-28 17:42:28 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:43:43 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:44:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 197
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.5%
+Chaitanya-operator  After  197 Measures--> Used JS Heap Size: 235.18505096435547 MB
+2023-03-28 17:44:08 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 198
+2023-03-28 17:44:08 --> Balance API requests and Complete
+2023-03-28 17:44:08 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:45:24 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:45:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 198
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 4.2%
+Chaitanya-operator  After  198 Measures--> Used JS Heap Size: 230.2331190109253 MB
+2023-03-28 17:45:49 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration Start 199
+2023-03-28 17:45:49 --> Balance API requests and Complete
+2023-03-28 17:45:49 --> Chaitanya-operator --> BA035001 --> Balance  Dynamic Weighing Start
+2023-03-28 17:47:04 --> Chaitanya-operator --> BA035001 --> Navigates to Step 4
+2023-03-28 17:47:30 --> Chaitanya-operator --> BA035001 --> Balance  measure iteration End 199
+Chaitanya-operator --> BA035001 --> Total CPU utilization: 2.6%
+Chaitanya-operator  After  199 Measures--> Used JS Heap Size: 240.66791343688965 MB
+2023-03-28 17:47:40 --> Chaitanya-operator --> BA035001 --> Test Execution END
