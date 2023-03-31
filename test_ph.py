@@ -38,7 +38,7 @@ def test_operator_login(adminuser, operatoruser, serielnumber, simui):
         # options.add_argument('--no-close')
         # options.add_experimental_option("detach", True)
         driver = webdriver.Chrome(executable_path='chromedriver', options=options)
-        driver.get("https://124.123.26.241:1665/merck/login")
+        driver.get("https://124.123.26.241:1666/merck/login")
         driver.maximize_window()
         if action_status is None:
             print(serielnumber, '-->', "No action status available")
@@ -90,7 +90,7 @@ def test_operator_login(adminuser, operatoruser, serielnumber, simui):
             EC.text_to_be_present_in_element((By.CSS_SELECTOR, '.balance-primary-button'), 'Confirm'))
         driver.find_element('css selector', '.balance-primary-button').click()
         print(getcurrent_time(), '-->', operatoruser, '-->', serielnumber, '-->', "Navigates to Step3")
-        for i in range(1, 200):
+        for i in range(1, 300):
             print(Fore.WHITE + getcurrent_time(), '-->',  operatoruser, '-->', serielnumber, '-->', devicetype,
                   " measure iteration Start " + str(i))
             if 'balance' in devicetype.lower():

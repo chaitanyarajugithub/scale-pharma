@@ -1,2 +1,11 @@
 adminuser,operatoruser,serielnumber,simui
-chaitanya-admin,Chaitanya-operator,BA035001,http://172.168.9.35:8900
+chaitanya-admin,Chaitanya-operator,BA036001,http://172.168.9.36:8100
+phz-ad701,phz-op709,BA036002,http://172.168.9.36:8101
+phz-ad702,phz-op701,BA036003,http://172.168.9.36:8102
+phz-ad703,phz-op702,BA036004,http://172.168.9.36:8103
+phz-ad704,phz-op703,BA036005,http://172.168.9.36:8104
+phz-ad705,phz-op704,BA036006,http://172.168.9.36:8105
+phz-ad706,phz-op705,BA036007,http://172.168.9.36:8106
+phz-ad707,phz-op706,BA036008,http://172.168.9.36:8107
+phz-ad708,phz-op707,BA036009,http://172.168.9.36:8108
+phz-ad709,phz-op708,BA036010,http://172.168.9.36:8109

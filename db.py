@@ -2,11 +2,11 @@ import psycopg2
 
 # Establish a connection to the database
 conn = psycopg2.connect(
-    host='124.123.26.241',
-    port='5435',
+    host='172.168.9.166',
+    port='5432',
     database='merck',
     user='postgres',
-    password='iCtnMBWbLvHhsoUB7eFgZmUKblD1Mudv'
+    password='Mv6VwuHXqIDtmsdmZFcAP9Zmo8ntU9bS'
 )
 
 

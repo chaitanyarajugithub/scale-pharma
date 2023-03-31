@@ -14,7 +14,7 @@ def test_operator_login(username, serielnumber):
     options = Options()
     options.add_argument('--ignore-ssl-errors=yes')
     options.add_argument('--ignore-certificate-errors')
-    # options.add_argument('--headless')
+    options.add_argument('--headless')
     options.add_argument('--no-close')
     driver = webdriver.Chrome(executable_path='/Users/chaitanya/Downloads/Selenium/Installers/Drivers/chromedriver_copy', options=options)
     driver.get("https://124.123.26.241:1665/merck/login")
