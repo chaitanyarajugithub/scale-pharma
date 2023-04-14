@@ -1,14 +1,19 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 
 def login(username, password):
-    # Initialize the webdriver
-    driver = webdriver.Chrome()
-
+    options = Options()
+    options.add_argument('--ignore-ssl-errors=yes')
+    options.add_argument('--ignore-certificate-errors')
+    options.add_argument('--headless')
+    options.add_argument('--enable-precise-memory-info')
+    # options.add_experimental_option("detach", True)
+    driver = webdriver.Chrome(executable_path='chromedriver', options=options)
     # Navigate to the login page
     driver.get("https://124.123.26.241:1664/merck/login")
 
-    # Find the email input element and enter your email
+    # Find the Username input element and enter your email
     email_input = driver.find_element("css selector", "input[type='text']")
     email_input.send_keys(username)
 
@@ -32,4 +37,4 @@ def login(username, password):
     driver.quit()
 
 
-login("youremail@example.com", "yourpassword")
+login("chaitanya-admin ", "Cohesion_123!")
