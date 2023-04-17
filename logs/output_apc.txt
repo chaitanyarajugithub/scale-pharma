@@ -1,0 +1,675 @@
+Chaitanya-operator --> Test Execution Start --> 2023-04-16 20:15:29
+2023-04-16 20:15:48 --> Chaitanya-operator --> 1411527013 --> Operator Login Successful
+2023-04-16 20:15:48 --> Chaitanya-operator --> 1411527013 --> Particle Counter Selected
+2023-04-16 20:15:53 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 1
+2023-04-16 20:15:53 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:16:03 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  1
+83730250
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:16:05 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:17:03 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:18:31 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 1
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 8.7%
+Chaitanya-operator  After  1 Measures--> Used JS Heap Size: 54.99782371520996 MB
+2023-04-16 20:18:31 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 2
+2023-04-16 20:18:31 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:18:40 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  2
+6242431986
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:18:42 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:19:41 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:21:08 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 2
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.3%
+Chaitanya-operator  After  2 Measures--> Used JS Heap Size: 44.955695152282715 MB
+2023-04-16 20:21:08 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 3
+2023-04-16 20:21:08 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:21:17 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  3
+3464561
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:21:19 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:22:18 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:23:45 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 3
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 5.9%
+Chaitanya-operator  After  3 Measures--> Used JS Heap Size: 51.779239654541016 MB
+2023-04-16 20:23:45 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 4
+2023-04-16 20:23:45 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:23:54 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  4
+6685579583
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:23:56 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:24:55 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:26:22 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 4
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.4%
+Chaitanya-operator  After  4 Measures--> Used JS Heap Size: 58.106852531433105 MB
+2023-04-16 20:26:22 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 5
+2023-04-16 20:26:22 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:26:31 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  5
+73628965
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:26:34 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:27:32 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:28:59 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 5
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.4%
+Chaitanya-operator  After  5 Measures--> Used JS Heap Size: 66.24167537689209 MB
+2023-04-16 20:28:59 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 6
+2023-04-16 20:28:59 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:29:09 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  6
+37736420
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:29:11 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:30:10 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:31:36 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 6
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.2%
+Chaitanya-operator  After  6 Measures--> Used JS Heap Size: 73.58500289916992 MB
+2023-04-16 20:31:36 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 7
+2023-04-16 20:31:37 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:31:46 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  7
+4178811890
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:31:48 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:32:47 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:34:14 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 7
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.4%
+Chaitanya-operator  After  7 Measures--> Used JS Heap Size: 82.27069282531738 MB
+2023-04-16 20:34:14 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 8
+2023-04-16 20:34:14 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:34:23 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  8
+9890280955
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:34:25 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:35:24 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:36:51 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 8
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.3%
+Chaitanya-operator  After  8 Measures--> Used JS Heap Size: 94.87244510650635 MB
+2023-04-16 20:36:51 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 9
+2023-04-16 20:36:51 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:37:00 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  9
+69391552
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:37:02 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:38:01 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:39:28 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 9
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.2%
+Chaitanya-operator  After  9 Measures--> Used JS Heap Size: 97.57734394073486 MB
+2023-04-16 20:39:28 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 10
+2023-04-16 20:39:28 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:39:37 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  10
+63234891
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:39:39 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:40:38 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:42:04 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 10
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.3%
+Chaitanya-operator  After  10 Measures--> Used JS Heap Size: 107.37197971343994 MB
+2023-04-16 20:42:04 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 11
+2023-04-16 20:42:04 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:42:13 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  11
+36272463
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:42:15 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:43:14 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:44:41 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 11
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.8%
+Chaitanya-operator  After  11 Measures--> Used JS Heap Size: 112.71936988830566 MB
+2023-04-16 20:44:41 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 12
+2023-04-16 20:44:41 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:44:50 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  12
+4735187833
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:44:52 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:45:51 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:47:18 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 12
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.9%
+Chaitanya-operator  After  12 Measures--> Used JS Heap Size: 122.30759048461914 MB
+2023-04-16 20:47:18 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 13
+2023-04-16 20:47:18 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:47:28 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  13
+206630504
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:47:30 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:48:29 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:49:55 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 13
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.3%
+Chaitanya-operator  After  13 Measures--> Used JS Heap Size: 132.20007705688477 MB
+2023-04-16 20:49:55 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 14
+2023-04-16 20:49:55 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:50:05 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  14
+5941607392
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:50:07 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:51:06 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:52:33 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 14
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.4%
+Chaitanya-operator  After  14 Measures--> Used JS Heap Size: 138.44589614868164 MB
+2023-04-16 20:52:33 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 15
+2023-04-16 20:52:33 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:52:42 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  15
+888318720
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:52:44 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:53:43 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:55:10 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 15
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.6%
+Chaitanya-operator  After  15 Measures--> Used JS Heap Size: 149.45361042022705 MB
+2023-04-16 20:55:10 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 16
+2023-04-16 20:55:10 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:55:19 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  16
+505771326
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:55:21 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:56:20 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 20:57:47 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 16
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.6%
+Chaitanya-operator  After  16 Measures--> Used JS Heap Size: 155.72186756134033 MB
+2023-04-16 20:57:47 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 17
+2023-04-16 20:57:47 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 20:57:56 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  17
+42268060
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 20:57:58 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 20:58:57 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:00:24 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 17
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.5%
+Chaitanya-operator  After  17 Measures--> Used JS Heap Size: 170.06550216674805 MB
+2023-04-16 21:00:24 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 18
+2023-04-16 21:00:24 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:00:33 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  18
+158561272
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:00:36 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:01:34 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:03:02 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 18
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 6.9%
+Chaitanya-operator  After  18 Measures--> Used JS Heap Size: 186.4253568649292 MB
+2023-04-16 21:03:02 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 19
+2023-04-16 21:03:02 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:03:11 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  19
+30550781
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:03:13 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:04:12 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:05:39 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 19
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.5%
+Chaitanya-operator  After  19 Measures--> Used JS Heap Size: 187.37883853912354 MB
+2023-04-16 21:05:39 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 20
+2023-04-16 21:05:39 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:05:48 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  20
+3663374578
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:05:50 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:06:49 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:08:17 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 20
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.6%
+Chaitanya-operator  After  20 Measures--> Used JS Heap Size: 195.48509883880615 MB
+2023-04-16 21:08:17 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 21
+2023-04-16 21:08:17 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:08:26 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  21
+1842024917
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:08:29 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:09:28 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:10:54 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 21
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.2%
+Chaitanya-operator  After  21 Measures--> Used JS Heap Size: 204.16784572601318 MB
+2023-04-16 21:10:54 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 22
+2023-04-16 21:10:54 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:11:04 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  22
+72781789
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:11:06 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:12:05 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:13:30 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 22
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.1%
+Chaitanya-operator  After  22 Measures--> Used JS Heap Size: 205.40707397460938 MB
+2023-04-16 21:13:30 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 23
+2023-04-16 21:13:30 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:13:40 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  23
+003081700
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:13:42 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:14:41 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:16:08 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 23
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 8.8%
+Chaitanya-operator  After  23 Measures--> Used JS Heap Size: 217.42422199249268 MB
+2023-04-16 21:16:08 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 24
+2023-04-16 21:16:08 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:16:17 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  24
+352232732
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:16:19 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:17:18 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:18:45 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 24
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.8%
+Chaitanya-operator  After  24 Measures--> Used JS Heap Size: 230.7450647354126 MB
+2023-04-16 21:18:45 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 25
+2023-04-16 21:18:45 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:18:54 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  25
+89747859
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:18:56 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:19:55 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:21:21 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 25
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 10.0%
+Chaitanya-operator  After  25 Measures--> Used JS Heap Size: 243.10097980499268 MB
+2023-04-16 21:21:21 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 26
+2023-04-16 21:21:21 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:21:31 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  26
+12823148
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:21:33 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:22:31 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:23:59 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 26
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.2%
+Chaitanya-operator  After  26 Measures--> Used JS Heap Size: 244.96941947937012 MB
+2023-04-16 21:23:59 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 27
+2023-04-16 21:23:59 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:24:08 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  27
+4544432
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:24:10 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:25:09 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:26:35 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 27
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.5%
+Chaitanya-operator  After  27 Measures--> Used JS Heap Size: 260.9390172958374 MB
+2023-04-16 21:26:35 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 28
+2023-04-16 21:26:36 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:26:45 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  28
+04493609
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:26:47 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:27:46 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:29:13 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 28
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 11.5%
+Chaitanya-operator  After  28 Measures--> Used JS Heap Size: 259.90645694732666 MB
+2023-04-16 21:29:13 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 29
+2023-04-16 21:29:13 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:29:22 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  29
+54206300
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:29:24 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:30:23 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:31:49 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 29
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 8.3%
+Chaitanya-operator  After  29 Measures--> Used JS Heap Size: 275.28733348846436 MB
+2023-04-16 21:31:49 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 30
+2023-04-16 21:31:50 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:31:59 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  30
+44878320
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:32:01 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:33:00 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:34:27 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 30
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.7%
+Chaitanya-operator  After  30 Measures--> Used JS Heap Size: 270.9921054840088 MB
+2023-04-16 21:34:27 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 31
+2023-04-16 21:34:27 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:34:36 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  31
+0069100
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:34:38 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:35:37 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:37:04 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 31
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.2%
+Chaitanya-operator  After  31 Measures--> Used JS Heap Size: 293.4356298446655 MB
+2023-04-16 21:37:04 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 32
+2023-04-16 21:37:04 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:37:13 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  32
+844552095
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:37:15 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:38:14 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:39:42 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 32
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.4%
+Chaitanya-operator  After  32 Measures--> Used JS Heap Size: 290.6550769805908 MB
+2023-04-16 21:39:42 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 33
+2023-04-16 21:39:42 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:39:51 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  33
+5447538899
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:39:53 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:40:52 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:42:20 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 33
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.2%
+Chaitanya-operator  After  33 Measures--> Used JS Heap Size: 300.8677091598511 MB
+2023-04-16 21:42:20 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 34
+2023-04-16 21:42:20 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:42:29 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  34
+3194897
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:42:31 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:43:30 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:44:57 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 34
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.9%
+Chaitanya-operator  After  34 Measures--> Used JS Heap Size: 309.3038787841797 MB
+2023-04-16 21:44:57 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 35
+2023-04-16 21:44:57 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:45:06 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  35
+887542755
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:45:08 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:46:07 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:47:34 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 35
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 8.3%
+Chaitanya-operator  After  35 Measures--> Used JS Heap Size: 317.2886905670166 MB
+2023-04-16 21:47:34 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 36
+2023-04-16 21:47:34 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:47:43 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  36
+741333824
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:47:45 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:48:44 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:50:10 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 36
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.8%
+Chaitanya-operator  After  36 Measures--> Used JS Heap Size: 323.11255741119385 MB
+2023-04-16 21:50:10 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 37
+2023-04-16 21:50:11 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:50:20 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  37
+4337833
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:50:22 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:51:21 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:52:47 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 37
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.5%
+Chaitanya-operator  After  37 Measures--> Used JS Heap Size: 341.7488145828247 MB
+2023-04-16 21:52:47 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 38
+2023-04-16 21:52:47 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:52:57 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  38
+23256934
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:52:59 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:53:58 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:55:25 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 38
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.9%
+Chaitanya-operator  After  38 Measures--> Used JS Heap Size: 337.8264112472534 MB
+2023-04-16 21:55:25 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 39
+2023-04-16 21:55:25 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:55:35 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  39
+1990779
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:55:37 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:56:36 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 21:58:03 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 39
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.7%
+Chaitanya-operator  After  39 Measures--> Used JS Heap Size: 355.3662166595459 MB
+2023-04-16 21:58:03 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 40
+2023-04-16 21:58:03 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 21:58:12 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  40
+24437553
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 21:58:15 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 21:59:13 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:00:41 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 40
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 9.3%
+Chaitanya-operator  After  40 Measures--> Used JS Heap Size: 348.0234546661377 MB
+2023-04-16 22:00:41 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 41
+2023-04-16 22:00:42 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:00:51 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  41
+92770151
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:00:53 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:01:52 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:03:20 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 41
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 7.7%
+Chaitanya-operator  After  41 Measures--> Used JS Heap Size: 364.3956241607666 MB
+2023-04-16 22:03:20 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 42
+2023-04-16 22:03:20 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:03:29 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  42
+45499800
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:03:31 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:04:30 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:05:57 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 42
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 9.3%
+Chaitanya-operator  After  42 Measures--> Used JS Heap Size: 368.08820724487305 MB
+2023-04-16 22:05:57 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 43
+2023-04-16 22:05:57 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:06:06 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  43
+8210200
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:06:08 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:07:07 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:08:35 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 43
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 9.3%
+Chaitanya-operator  After  43 Measures--> Used JS Heap Size: 380.237473487854 MB
+2023-04-16 22:08:35 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 44
+2023-04-16 22:08:35 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:08:44 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  44
+66703440
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:08:46 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:09:45 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:11:12 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 44
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 9.4%
+Chaitanya-operator  After  44 Measures--> Used JS Heap Size: 399.92830181121826 MB
+2023-04-16 22:11:12 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 45
+2023-04-16 22:11:12 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:11:22 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  45
+50559264
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:11:24 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:12:23 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:13:50 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 45
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 9.6%
+Chaitanya-operator  After  45 Measures--> Used JS Heap Size: 404.2526435852051 MB
+2023-04-16 22:13:50 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 46
+2023-04-16 22:13:50 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:13:59 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  46
+4605072
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:14:01 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:15:00 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:16:27 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 46
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 11.2%
+Chaitanya-operator  After  46 Measures--> Used JS Heap Size: 407.6018352508545 MB
+2023-04-16 22:16:27 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 47
+2023-04-16 22:16:27 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:16:37 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  47
+49702220
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:16:39 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:17:38 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:19:05 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 47
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 10.3%
+Chaitanya-operator  After  47 Measures--> Used JS Heap Size: 404.48555850982666 MB
+2023-04-16 22:19:05 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 48
+2023-04-16 22:19:05 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:19:14 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  48
+62167360
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:19:16 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:20:15 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:21:42 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 48
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 10.1%
+Chaitanya-operator  After  48 Measures--> Used JS Heap Size: 415.4032669067383 MB
+2023-04-16 22:21:42 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 49
+2023-04-16 22:21:42 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:21:52 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  49
+888727196
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:21:54 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:22:53 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:24:20 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 49
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 9.7%
+Chaitanya-operator  After  49 Measures--> Used JS Heap Size: 451.53107357025146 MB
+2023-04-16 22:24:20 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 50
+2023-04-16 22:24:20 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:24:29 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  50
+6172011
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:24:31 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:25:30 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:26:58 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 50
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 10.2%
+Chaitanya-operator  After  50 Measures--> Used JS Heap Size: 441.2843017578125 MB
+2023-04-16 22:26:58 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 51
+2023-04-16 22:26:58 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:27:08 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  51
+1243133132
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:27:10 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:28:09 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:29:36 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 51
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 10.4%
+Chaitanya-operator  After  51 Measures--> Used JS Heap Size: 455.01827239990234 MB
+2023-04-16 22:29:36 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 52
+2023-04-16 22:29:36 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:29:45 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  52
+4409666
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:29:47 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:30:46 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:32:14 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 52
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 10.1%
+Chaitanya-operator  After  52 Measures--> Used JS Heap Size: 477.01838970184326 MB
+2023-04-16 22:32:14 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 53
+2023-04-16 22:32:14 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:32:24 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  53
+222028130
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:32:26 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:33:25 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:34:53 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 53
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 11.1%
+Chaitanya-operator  After  53 Measures--> Used JS Heap Size: 462.6414613723755 MB
+2023-04-16 22:34:53 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 54
+2023-04-16 22:34:53 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:35:02 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  54
+691927074
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:35:04 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:36:03 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:37:30 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 54
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 10.1%
+Chaitanya-operator  After  54 Measures--> Used JS Heap Size: 472.08399200439453 MB
+2023-04-16 22:37:30 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 55
+2023-04-16 22:37:31 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:37:40 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  55
+14926244
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:37:42 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:38:41 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:40:08 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 55
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 11.1%
+Chaitanya-operator  After  55 Measures--> Used JS Heap Size: 503.93106269836426 MB
+2023-04-16 22:40:08 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 56
+2023-04-16 22:40:09 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:40:18 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  56
+1864578
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:40:20 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:41:19 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:42:47 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 56
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 19.1%
+Chaitanya-operator  After  56 Measures--> Used JS Heap Size: 489.2389488220215 MB
+2023-04-16 22:42:47 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 57
+2023-04-16 22:42:47 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:42:56 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  57
+86597654
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:42:58 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:43:57 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:45:25 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 57
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 19.3%
+Chaitanya-operator  After  57 Measures--> Used JS Heap Size: 499.58866786956787 MB
+2023-04-16 22:45:25 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 58
+2023-04-16 22:45:25 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:45:34 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  58
+9595678446
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:45:36 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:46:35 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:48:03 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 58
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 20.4%
+Chaitanya-operator  After  58 Measures--> Used JS Heap Size: 529.5326671600342 MB
+2023-04-16 22:48:03 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 59
+2023-04-16 22:48:03 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:48:12 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  59
+27649918
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:48:14 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:49:13 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:50:40 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 59
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 23.1%
+Chaitanya-operator  After  59 Measures--> Used JS Heap Size: 508.88916873931885 MB
+2023-04-16 22:50:40 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 60
+2023-04-16 22:50:40 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:50:49 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  60
+3249212
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:50:51 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:51:50 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:53:18 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 60
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 23.0%
+Chaitanya-operator  After  60 Measures--> Used JS Heap Size: 520.0700092315674 MB
+2023-04-16 22:53:18 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 61
+2023-04-16 22:53:18 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:53:27 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  61
+1334197
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:53:29 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:54:28 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:55:54 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 61
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 18.4%
+Chaitanya-operator  After  61 Measures--> Used JS Heap Size: 544.577633857727 MB
+2023-04-16 22:55:55 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 62
+2023-04-16 22:55:55 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:56:04 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  62
+79786319
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:56:06 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:57:05 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 22:58:33 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 62
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 20.7%
+Chaitanya-operator  After  62 Measures--> Used JS Heap Size: 532.420934677124 MB
+2023-04-16 22:58:33 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 63
+2023-04-16 22:58:33 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 22:58:42 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  63
+1100732
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 22:58:44 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+2023-04-16 22:59:44 --> Chaitanya-operator --> 1411527013 --> Scheduled sample Started
+2023-04-16 23:01:11 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration End 63
+Chaitanya-operator --> 1411527013 --> Total CPU utilization: 12.6%
+Chaitanya-operator  After  63 Measures--> Used JS Heap Size: 548.2257022857666 MB
+2023-04-16 23:01:11 --> Chaitanya-operator --> 1411527013 --> APC  measure iteration Start 64
+2023-04-16 23:01:11 --> Chaitanya-operator --> 1411527013 --> Navigated to Equipment Page
+2023-04-16 23:01:20 --> Chaitanya-operator --> 1411527013 --> Device not Occupied Proceed with test  64
+87815643
+{'status': 'success', 'data': None, 'message': None}
+2023-04-16 23:01:22 --> Chaitanya-operator --> 1411527013 --> Scheduled sample added
+Process Process-1:
+Traceback (most recent call last):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/chaitanya/PycharmProjects/Scale_Pharma/test_apc.py", line 71, in sceduledsample
+    startsceduledsample(driver)
+  File "/Users/chaitanya/PycharmProjects/Scale_Pharma/reusablemethods.py", line 175, in startsceduledsample
+    form = WebDriverWait(driver, timeout, interval).until(EC.visibility_of_element_located((By.CSS_SELECTOR, "form.q-form")))
+  File "/Users/chaitanya/PycharmProjects/Scale_Pharma/venv/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 95, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100690ae8 chromedriver + 4958952
+1   chromedriver                        0x00000001006887b3 chromedriver + 4925363
+2   chromedriver                        0x000000010024a1d6 chromedriver + 475606
+3   chromedriver                        0x000000010028da20 chromedriver + 752160
+4   chromedriver                        0x000000010028dc81 chromedriver + 752769
+5   chromedriver                        0x00000001002d1f64 chromedriver + 1032036
+6   chromedriver                        0x00000001002b3c3d chromedriver + 908349
+7   chromedriver                        0x00000001002cf25b chromedriver + 1020507
+8   chromedriver                        0x00000001002b39e3 chromedriver + 907747
+9   chromedriver                        0x000000010027daef chromedriver + 686831
+10  chromedriver                        0x000000010027f00e chromedriver + 692238
+11  chromedriver                        0x000000010064c9ad chromedriver + 4680109
+12  chromedriver                        0x0000000100651c12 chromedriver + 4701202
+13  chromedriver                        0x000000010065879f chromedriver + 4728735
+14  chromedriver                        0x0000000100652b7a chromedriver + 4705146
+15  chromedriver                        0x000000010062527e chromedriver + 4518526
+16  chromedriver                        0x0000000100672908 chromedriver + 4835592
+17  chromedriver                        0x0000000100672a87 chromedriver + 4835975
+18  chromedriver                        0x000000010068200f chromedriver + 4898831
+19  libsystem_pthread.dylib             0x00007ff817285259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff817280c7b thread_start + 15
+

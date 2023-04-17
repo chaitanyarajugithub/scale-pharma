@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<EMPlan EMPlanNumber="{{EMPlanNumber}}" Site="{{site}}" PlanDescription="">
+	<Samples>
+		<Sample SampleNumber="{{SampleNumber}}" Batch="" Type="Scheduled_run" EmSampleType="PARTICUALTE_AIR" SamplingPoint="245218.003PC" SamplePointDescription="Corr 2218 Center of Cell Side Controlled Corridor">
+			<SampleProperties>
+				  <TextId>WP12_2218_B-245218.003PC-20200601-1</TextId>
+				  <ScheduledBeginTime>{{Datetoday}}</ScheduledBeginTime>
+				  <ScheduledEndTime>{{Dateafter10days}}</ScheduledEndTime>
+				  <Product>WP_GRADE_B</Product>
+				  <Stage>PC</Stage>
+				  <Phase>NORMAL</Phase>
+				  <ProcessUnit>WP12_2218_B</ProcessUnit>
+				  <ProductGrade>NORMAL</ProductGrade>
+				  <Room>WP12_2218</Room>
+				  <Grade>GRADE_B</Grade>
+
+				  <AssignedUsers>
+					  <AssignedUser>{{user1}}</AssignedUser>
+				  </AssignedUsers>
+			</SampleProperties>
+			<Tests>
+				<Test TestNumber="{{TestNumber}}" Analysis="PARTICLE_COUNT" TestType="SAMPLE" RunCount="1">
+					<Volume Unit="CF">1</Volume>
+					<DelayTime Unit="second">5</DelayTime>
+
+					<MeasurementQuestion>
+					  <Field Name="Room Activity" Type="List">
+						  <PossibleValue>Yes</PossibleValue>
+                          <PossibleValue>No</PossibleValue>
+					  </Field>
+
+					  <Field Name="Particulate Flush" Type="List">
+						  <PossibleValue>Yes</PossibleValue>
+						  <PossibleValue>No</PossibleValue>
+					  </Field>
+					</MeasurementQuestion>
+				</Test>
+			</Tests>
+      </Sample>
+   </Samples>
+</EMPlan>

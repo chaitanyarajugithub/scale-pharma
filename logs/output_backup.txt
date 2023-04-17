@@ -2,7 +2,7 @@ phz-op706 --> BA035008 --> None
 phz-op702 --> BA035004 --> checked-out
 phz-op705 --> BA035007 --> None
 phz-op701 --> BA035003 --> checked-in
-phz-op709 --> BA035002 --> checked-in
+phz-op709 --> BA035002 --> checked-inoutput.txt
 phz-op707 --> BA035009 --> None
 phz-op704 --> BA035006 --> checked-out
 phz-op703 --> BA035005 --> checked-out

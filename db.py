@@ -6,7 +6,7 @@ conn = psycopg2.connect(
     port='5432',
     database='merck',
     user='postgres',
-    password='Mv6VwuHXqIDtmsdmZFcAP9Zmo8ntU9bS'
+    password='a8RNkKbOgIuIiPLoYsUOmJlvcbWVY0OL'
 )
 
 

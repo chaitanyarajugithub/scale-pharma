@@ -20,8 +20,8 @@ from colorama import Fore
 from simulator import addprotocolexportandcomplete
 
 users = []
-devicetype = 'Balance'
-testtype = 'Complete'
+devicetype = 'Conductivity'
+testtype = 'abort'
 
 
 def test_operator_login(adminuser, operatoruser, serielnumber, simui):
@@ -33,7 +33,7 @@ def test_operator_login(adminuser, operatoruser, serielnumber, simui):
         options = Options()
         options.add_argument('--ignore-ssl-errors=yes')
         options.add_argument('--ignore-certificate-errors')
-        options.add_argument('--headless')
+        # options.add_argument('--headless')
         options.add_argument('--enable-precise-memory-info')
         # options.add_argument('--no-close')
         # options.add_experimental_option("detach", True)
