@@ -51,12 +51,20 @@ def cpuutilization():
     cpu_percent = psutil.cpu_percent()
     return cpu_percent
 
+
 def memoryutilization(driver):
     # execute JavaScript to get the memory usage data
     memory_data = driver.execute_script("return window.performance.memory")
     # extract the value of the 'usedJSHeapSize' property
     used_js_heap_size = memory_data['usedJSHeapSize']
     return used_js_heap_size
+
+
+def servermemory():
+    # Getting % usage of virtual_memory ( 3rd field)
+    print('RAM memory % used:', psutil.virtual_memory()[2])
+    return psutil.virtual_memory()[2]
+
 
 def abortmeasure(driver):
     driver.find_element('xpath', "//*[contains(text(),'Abort')]/ancestor::button").click()
