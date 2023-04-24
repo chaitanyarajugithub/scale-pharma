@@ -15,10 +15,10 @@ def sceduledsample(operatoruser, serielnumber):
     options.add_argument('--ignore-ssl-errors=yes')
     options.add_argument('--ignore-certificate-errors')
     # options.add_argument("--auto-open-devtools-for-tabs")
-    # options.add_argument('--headless')
-    options.add_argument('--enable-precise-memory-info')
-    options.add_experimental_option("detach", True)
-    driver = webdriver.Chrome(executable_path='chromedriver', options=options)
+    options.add_argument('--headless')
+    # options.add_argument('--enable-precise-memory-info')
+    # options.add_experimental_option("detach", True)
+    driver = webdriver.Chrome(executable_path='./drivers/chromedriver', options=options)
 
     # Navigate to the login page
     driver.get("https://124.123.26.241:1664/merck/login")
