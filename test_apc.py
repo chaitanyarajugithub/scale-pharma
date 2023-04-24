@@ -28,6 +28,7 @@ def sceduledsample(operatoruser, serielnumber):
     time.sleep(5)
     print(operatoruser, '--> Test Execution Start -->', getcurrent_time())
     # Login
+    WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "input[type='text']")))
     login(operatoruser, driver)
     time.sleep(5)
     print(getcurrent_time(), '-->', operatoruser, '-->', serielnumber, '-->', 'Operator Login Successful')
