@@ -3,4 +3,4 @@ colorama==0.4.4
 psutil==5.8.0
 faker
 requests==2.25.1
-psycopg2==2.9.1
+psycopg2
